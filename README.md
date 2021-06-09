@@ -37,8 +37,9 @@
   * The file has detailed comments explaining each segment.
     
 #### Results:
-   * All the segments of jupiter notebook executed successfully generating the final report.
-   * Successfully displays output identical to what was required.
+   * Tested it multiple times in Jupyter Notebook and VS code.
+   * All the segments of Jupyter notebook executed successfully generating the final report.
+   * Successfully displays output identical to what was required, both in VS code and Jupyter Notebook
 
 ###### eRRORS !!!! What ERRORS ????
 * REST ASSURED, the code runs error free. Just Follow these detailed instructions ....
