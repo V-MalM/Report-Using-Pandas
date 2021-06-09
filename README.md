@@ -38,7 +38,7 @@
     
 #### Results:
    * All the segments of jupiter notebook executed successfully generating the final report .
-   * Succefuuly displays output identical to what was required
+   * Successfully displays output identical to what was required
 
 ###### eRRORS !!!! What ERRORS ????
 * REST ASSURED, The code runs error free. Just Follow these detailed instructions ....
