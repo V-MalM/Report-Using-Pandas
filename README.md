@@ -7,7 +7,7 @@
    		* Jupyter notebook 'HeroesOfPymoli.ipynb' that has main script to run for analyzing the data stored in 'Resources/purchase_data.csv'
         * Word document 'conclusions.docx' with Written Report Presenting a cohesive written analysis that Draws three correct conclusions from the data for Pymoli
 #### Key notes:
-   * The report succesgully displays 
+   * The report successfully displays 
       * Total Players 
       * Purchase Analysis (Total)
       * Gender Demographics
@@ -18,9 +18,9 @@
       * Most Popular Items
       * Most profitable Items
 
-   * Used multiple ways of createing pandas DataFrames where ever applicable by using lists , dictonaries and also by concatinating pandas series
-   * Used functions (Examples: Mean(),Sum(),Count(),nunique()) to perform calculations 
-   * Applied Group by in determining th following
+   * Used multiple ways of creating pandas DataFrames where ever applicable by using lists , dictionaries and also by concatenating pandas series
+   * Used functions (Examples: Mean(), Sum(), Count(), nunique()) to perform calculations 
+   * Applied Group by in determining the following.
       * Purchase Analysis (Gender)
       * Purchasing Analysis (Age)
       * Top Spenders
@@ -28,17 +28,17 @@
    * Cut and binned for both Age Demographics and Purchasing Analysis
       * Age Demographics
       * Purchasing Analysis (Age)
-   * Succefully sorted dataframes
-   * Succefully applieed formatting for all displays accurately
+   * Successfully sorted dataframes
+   * Successfully applied formatting for all displays accurately.
  
 #### Execution:
-  * Please download the respository
+  * Please download the repository.
   * The script is in the Jupyter notebook 'HeroesOfPymoli.ipynb' which can be located in the folder HeroesOfPymoli.
-  * The file has detailed comments expaling each segment
+  * The file has detailed comments explaining each segment.
     
 #### Results:
-   * All the segments of jupiter notebook executed successfully generating the final report .
-   * Successfully displays output identical to what was required
+   * All the segments of jupiter notebook executed successfully generating the final report.
+   * Successfully displays output identical to what was required.
 
 ###### eRRORS !!!! What ERRORS ????
-* REST ASSURED, The code runs error free. Just Follow these detailed instructions ....
+* REST ASSURED, the code runs error free. Just Follow these detailed instructions ....
