@@ -32,7 +32,7 @@
    * Successfully applied formatting for all displays accurately.
  
 #### Execution:
-  * Important : Please download the repository and exceute ipynb file.
+  * Important : Please download the repository.
   * The script is in the Jupyter notebook 'HeroesOfPymoli.ipynb' which can be located in the folder HeroesOfPymoli.
   * The file has detailed comments explaining each segment.
     
