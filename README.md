@@ -3,10 +3,9 @@
 
 #### Resources:
    * Folder HeroesOfPymoli : This folder contains 
-   		* 'Resources': Contains the data file 'purchase_data.csv'
+      * 'Resources': Contains the data file 'purchase_data.csv'
    		* Jupyter notebook 'HeroesOfPymoli.ipynb' that has main script to run for analyzing the data stored in 'Resources/purchase_data.csv'
-         * Word document 'conclusions.docx' with Written Report Presenting a cohesive written analysis that Draws three correct conclusions from the data for Pymoli
-
+        * Word document 'conclusions.docx' with Written Report Presenting a cohesive written analysis that Draws three correct conclusions from the data for Pymoli
 #### Key notes:
    * The report succesgully displays 
       * Total Players 
