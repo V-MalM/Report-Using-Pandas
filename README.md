@@ -1,4 +1,4 @@
-### pandas-challenge
+### Pandas-Challenge
 #### Project Description -->  to generate a report for an independent gaming company by analyzing the data for their most recent fantasy game Heroes of Pymoli.. that breaks down the game's purchasing data into meaningful insights.
 
 #### Resources:
