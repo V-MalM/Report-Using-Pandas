@@ -1,4 +1,3 @@
-### Pandas-Challenge
 #### Project Description -->  to generate a report for an independent gaming company by analyzing the data for their most recent fantasy game Heroes of Pymoli.. that breaks down the game's purchasing data into meaningful insights.
 
 #### Resources:
@@ -37,9 +36,9 @@
   * The file has detailed comments explaining each segment.
     
 #### Results:
-   * Tested it multiple times in Jupyter Notebook and VS code.
+   * Tested it multiple times in Jupyter Notebook.
    * All the segments of Jupyter notebook executed successfully generating the final report.
-   * Successfully displays output identical to what was required, both in VS code and Jupyter Notebook
+   * Successfully displays output identical to what was required.
 
 ###### eRRORS !!!! What ERRORS ????
 * REST ASSURED, the code runs error free. Just Follow these detailed instructions ....
